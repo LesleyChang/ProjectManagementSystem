@@ -1,0 +1,41 @@
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe.config
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.pdb
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csprojAssemblyReference.cache
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\MainWindow.baml
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\App.baml
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\MainWindow.g.cs
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\App.g.cs
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF_MarkupCompile.cache
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.g.resources
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.Properties.Resources.resources
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.GenerateResource.cache
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.CopyComplete
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.exe
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.pdb
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe.config
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.pdb
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csprojAssemblyReference.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\MainWindow.baml
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\App.baml
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\MainWindow.g.cs
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\Window1.g.cs
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\App.g.cs
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF_MarkupCompile.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF_MarkupCompile.lref
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\Window1.baml
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.g.resources
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.Properties.Resources.resources
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.GenerateResource.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.CopyComplete
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.exe
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.pdb

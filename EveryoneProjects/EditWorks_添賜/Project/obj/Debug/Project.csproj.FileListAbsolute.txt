@@ -1,0 +1,2 @@
+D:\Shih\專題\Code\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Shih\專題\Code\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache

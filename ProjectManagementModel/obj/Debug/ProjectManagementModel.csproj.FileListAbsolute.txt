@@ -1,0 +1,39 @@
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementModel\obj\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\obj\Debug\ProjectManagementModel.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\obj\Debug\ProjectManagementModel.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\obj\Debug\ProjectManagementModel.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\obj\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\ProjectManagementModel\obj\Debug\ProjectManagementModel.pdb

@@ -1,0 +1,164 @@
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe.config
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.pdb
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csprojAssemblyReference.cache
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.g.cs
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\App.g.cs
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.cache
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.lref
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.baml
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.g.resources
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.Properties.Resources.resources
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.GenerateResource.cache
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CoreCompileInputs.cache
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.exe
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.pdb
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.g.cs
+C:\專題\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.baml
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csprojAssemblyReference.cache
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.g.cs
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\App.g.cs
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.cache
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.lref
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.pdb
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe.config
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.pdb
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.baml
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.g.resources
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.Properties.Resources.resources
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.GenerateResource.cache
+C:\Users\III\Desktop\1011\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CoreCompileInputs.cache
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe.config
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.pdb
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.pdb
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.g.cs
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.g.cs
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.g.cs
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\App.g.cs
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.cache
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.lref
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.baml
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.baml
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.baml
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.g.resources
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.Properties.Resources.resources
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.GenerateResource.cache
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CoreCompileInputs.cache
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CopyComplete
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.exe
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.pdb
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csprojAssemblyReference.cache
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe.config
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectModel.dll
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.dll
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectModel.pdb
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectModel.dll.config
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.xml
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.SqlServer.dll
+C:\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectSystemCalendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\CalendarDemo.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\AddPlan.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\Month.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Calendar_周本諴\20181016Caleadar\ProjectSystemCalendar\ProjectSystemCalendar\obj\Debug\ProjectSystemCalendar.pdb

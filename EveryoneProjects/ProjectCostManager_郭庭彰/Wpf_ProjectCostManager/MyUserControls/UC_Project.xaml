@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Wpf_ProjectCostManager.UC_Project"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Wpf_ProjectCostManager"
+             mc:Ignorable="d" 
+             d:DesignHeight="165" d:DesignWidth="158" Height="Auto" Width="Auto">
+    <Viewbox Stretch="Uniform">
+        <StackPanel Height="165" Width="158" Background="#FF4780A4">
+            <TextBlock Name="tb_ID" Foreground="White" TextWrapping="Wrap" Text="A10001" TextAlignment="Center" MouseLeftButtonDown="LeftMouseClick"/>
+            <TextBlock Name="tb_Name" Foreground="White" TextWrapping="Wrap" Text="初始專案" TextAlignment="Center" MouseLeftButtonDown="LeftMouseClick"/>
+            <Image Name="image" Height="98" Source="/Wpf_ProjectCostManager;component/Images/Cover-ERP-PM.png" Margin="5" MouseLeftButtonDown="LeftMouseClick"/>
+            <ProgressBar x:Name="progressBar" Height="14" Value="50" Background="White" Foreground="#FF34415B" >
+                <ProgressBar.Triggers>
+                    <EventTrigger RoutedEvent="ProgressBar.Loaded">
+                        <BeginStoryboard>
+                            <Storyboard x:Name="sb_ProgressShiny"/>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </ProgressBar.Triggers>
+            </ProgressBar>
+        </StackPanel>
+    </Viewbox>
+</UserControl>

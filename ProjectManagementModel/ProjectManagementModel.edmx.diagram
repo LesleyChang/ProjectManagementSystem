@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1dc3394227754a33b6f8c521a01d2f22" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="ProjectManagementModel.Caleadar" Width="1.5" PointX="5.25" PointY="21.25" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Dashboard" Width="1.5" PointX="8.25" PointY="20.875" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Department" Width="1.5" PointX="0.75" PointY="17.875" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Employee" Width="1.5" PointX="3" PointY="19.625" />
+        <EntityTypeShape EntityType="ProjectManagementModel.JobTitle" Width="1.5" PointX="0.75" PointY="21.375" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Meeting" Width="1.5" PointX="10.5" PointY="26.375" />
+        <EntityTypeShape EntityType="ProjectManagementModel.MeetingDetail" Width="1.5" PointX="5.25" PointY="17.875" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Members" Width="1.5" PointX="5.25" PointY="37.5" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Project" Width="1.5" PointX="8.25" PointY="14.25" />
+        <EntityTypeShape EntityType="ProjectManagementModel.ProjectCategory" Width="1.5" PointX="6" PointY="10.875" />
+        <EntityTypeShape EntityType="ProjectManagementModel.ProjectDiscuss" Width="1.5" PointX="5.25" PointY="34.875" />
+        <EntityTypeShape EntityType="ProjectManagementModel.ProjectMembers" Width="1.5" PointX="10.5" PointY="18.5" />
+        <EntityTypeShape EntityType="ProjectManagementModel.ResourceCategory" Width="1.5" PointX="18.75" PointY="17.25" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Status" Width="1.5" PointX="6" PointY="13.875" />
+        <EntityTypeShape EntityType="ProjectManagementModel.TaskDetail" Width="1.5" PointX="18" PointY="20" />
+        <EntityTypeShape EntityType="ProjectManagementModel.TaskModified" Width="1.5" PointX="18" PointY="28.875" />
+        <EntityTypeShape EntityType="ProjectManagementModel.TaskResource" Width="1.5" PointX="21" PointY="19.5" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Tasks" Width="1.5" PointX="15.75" PointY="18.5" />
+        <EntityTypeShape EntityType="ProjectManagementModel.WidgetDetail" Width="1.5" PointX="6" PointY="25.125" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Works" Width="1.5" PointX="13.5" PointY="17.25" />
+        <EntityTypeShape EntityType="ProjectManagementModel.WorksModified" Width="1.5" PointX="15.75" PointY="24.375" />
+        <EntityTypeShape EntityType="ProjectManagementModel.PreTasks" Width="1.5" PointX="18" PointY="26.375" />
+        <EntityTypeShape EntityType="ProjectManagementModel.ProjectRelationDept" Width="1.5" PointX="10.5" PointY="15.25" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Caleadar_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Dashboard_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Dashboard_WidgetDetail" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Department_Department" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Employee_Department" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Department" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Department1" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectRelationDept_Department" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Employee_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Employee_Position" />
+        <AssociationConnector Association="ProjectManagementModel.FK_MeetingDetail_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Members_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Employee1" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Employee2" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectDiscuss_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectMembers_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_TaskDetail_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Tasks_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Meeting_Project" />
+        <AssociationConnector Association="ProjectManagementModel.FK_MeetingDetail_Meeting" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_ProjectCategory" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Status" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectRelationDept_Project" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectTeam_Project" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_Project" />
+        <AssociationConnector Association="ProjectManagementModel.FK_TaskResource_ResourceCategory" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ActivityList_Status" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_Status" />
+        <AssociationConnector Association="ProjectManagementModel.FK_TaskDetail_Status" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ActivityDetail_ActivityList" />
+        <AssociationConnector Association="ProjectManagementModel.FK_TaskModified_Tasks" />
+        <AssociationConnector Association="ProjectManagementModel.FK_TaskResource_Tasks" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ActivityList_ProjectWork" />
+        <AssociationConnector Association="ProjectManagementModel.FK_PrepActivity_ActivityList" />
+        <AssociationConnector Association="ProjectManagementModel.FK_PrepActivity_ActivityList1" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_ProjectWork" />
+        <AssociationConnector Association="ProjectManagementModel.FK_WorksModified_Works" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

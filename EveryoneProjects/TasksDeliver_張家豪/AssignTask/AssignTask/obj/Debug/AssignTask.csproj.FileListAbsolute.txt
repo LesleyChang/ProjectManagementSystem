@@ -1,0 +1,621 @@
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\dks50217\source\repos\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver2\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver3\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181010 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver4\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver5\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver6\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\dks50217\Desktop\20181012 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181014 進度\作業配置_ver7\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver8\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\20181014 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\dks50217\Desktop\20181015 進度\作業配置_ver9\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\bin\Debug\WPFToolkit.dll
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver10\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\WPFToolkit.dll
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver11\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\WPFToolkit.dll
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver12\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\WPFToolkit.dll
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\作業配置_ver13\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\WPFToolkit.dll
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Desktop\PJ\ProjectManagementSystem\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\AssignTask.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.ResolveComReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_Content.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\1.AlterWPF\WorkLoadDetail.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\EmployeeDetail.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Employee.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_Chart_Bar.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\MyUserControl\UserControl_NextMemberIcon.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\TasksDeliver_張家豪\AssignTask\AssignTask\obj\Debug\AssignTask.pdb

@@ -1,0 +1,41 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trello.page"
+        xmlns:AddWork="clr-namespace:AddWork" x:Class="Trello.page.Window_setup_details"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen"
+        Background="White"
+        Title="Window_setup_details" Height="500" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="199*"/>
+            <ColumnDefinition Width="195*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="86*"/>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="163*"/>
+            <RowDefinition Height="67*"/>
+        </Grid.RowDefinitions>
+        <Button Margin="0,8,10.338,7.046" x:Name="close" BorderBrush="Transparent" Background="White" Width="30" Height="30" HorizontalAlignment="Right" VerticalAlignment="Center" Content="X" FontSize="18" FontWeight="DemiBold" Grid.Column="1" Click="close_Click"/>
+        <Button Width="100" Height="30" VerticalAlignment="Center" HorizontalAlignment="Left" Content="Complete" Margin="10,8,0,7.046"/>
+        <TextBox Name="setup_details_workName" Margin="10,45,9.338,41.277" FontSize="20" FontWeight="Bold" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Text="工作項目" Grid.ColumnSpan="2" Grid.RowSpan="3"/>
+        <WrapPanel RenderTransformOrigin="0.456,3.934" Grid.Column="0" Grid.Row="2" Margin="10,8,0.385,84.938" Grid.RowSpan="2" >
+            <Image Source="/Trello;component/images/icon頭像.png" />
+            <TextBox Name="setup_details_assignedName" FontSize="16" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Text="負責人"/>
+        </WrapPanel>
+        <TextBox Name="setup_details_desc" Margin="10,9.723,9.338,51.631"  FontSize="16" TextWrapping="Wrap" Grid.ColumnSpan="2" Grid.Row="3"  Text="Description" Grid.RowSpan="2"/>
+        <Label Margin="10,0,10,0" FontSize="16" Content="異動紀錄" VerticalContentAlignment="Center" Grid.Row="4"/>
+        <ListBox Margin="10,10,10,0"  Grid.Row="5" Grid.ColumnSpan="2"/>
+        <AddWork:LabelDatePicker x:Name="setup_details_datePicker" Margin="199,8.077,10.338,0.277" Grid.Row="2" Grid.ColumnSpan="2"/>
+        <Button Name="setup_datails_btnInsert" Content="新增" Margin="10" Grid.Column="1" Grid.Row="6" Click="setup_datails_btnInsert_Click"/>
+        <Button Name="setup_datails_modify" Margin="10" Content="修改" Grid.Row="6"/>
+    </Grid>
+</Window>

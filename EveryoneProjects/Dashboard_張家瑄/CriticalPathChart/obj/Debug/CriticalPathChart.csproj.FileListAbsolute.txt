@@ -1,0 +1,210 @@
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\MainWindow.g.cs
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\MainWindow.baml
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\MainWindow.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\MainWindow.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\MainWindow.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\MainWindow.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_Canvas_181013\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\MainWindow.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\MainWindow.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\PM_Projects_181014(CanvasCPM)\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.baml
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPath.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_TaskItem.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPathChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_CriticalPath.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\UserControl_TaskItem.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\CriticalPathChart\obj\Debug\CriticalPathChart.pdb

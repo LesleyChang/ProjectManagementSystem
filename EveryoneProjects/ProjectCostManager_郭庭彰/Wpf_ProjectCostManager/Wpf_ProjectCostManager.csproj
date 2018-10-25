@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB07506B-726B-465D-8FCF-EE1FDE5F967A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Wpf_ProjectCostManager</RootNamespace>
+    <AssemblyName>Wpf_ProjectCostManager</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="De.TorstenMandelkow.MetroChart, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework">
+      <HintPath>..\..\..\ProjectManagementModel\bin\Debug\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\..\..\ProjectManagementModel\bin\Debug\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Controls.DataVisualization.Toolkit">
+      <HintPath>..\packages\WPFToolkit.DataVisualization.3.5.50211.1\lib\System.Windows.Controls.DataVisualization.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="MyUserControls\UC_Resource.xaml.cs">
+      <DependentUpon>UC_Resource.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\ClsPageViewModel.cs" />
+    <Compile Include="ViewModel\ClsProjects.cs" />
+    <Compile Include="MyUserControls\UC_Project.xaml.cs">
+      <DependentUpon>UC_Project.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModel\ClsCost.cs" />
+    <Compile Include="ViewModel\ClsResources.cs" />
+    <Compile Include="ViewModel\ClsTaskResource.cs" />
+    <Compile Include="ViewModel\DisplayResource.cs" />
+    <Compile Include="View\Window_ExpenseAdder.xaml.cs">
+      <DependentUpon>Window_ExpenseAdder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Window_CategoryAdder.xaml.cs">
+      <DependentUpon>Window_CategoryAdder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Window_ProjectDetails.xaml.cs">
+      <DependentUpon>Window_ProjectDetails.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="View\Window_ProjectLoader.xaml.cs">
+      <DependentUpon>Window_ProjectLoader.xaml</DependentUpon>
+    </Compile>
+    <Page Include="Theme\Generic.xaml">
+      <SubType>Designer</SubType>
+      <Generator>XamlIntelliSenseFileGenerator</Generator>
+    </Page>
+    <Page Include="MyUserControls\UC_Resource.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="View\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="MyUserControls\UC_Project.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Window_ExpenseAdder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Window_CategoryAdder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Window_ProjectDetails.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\Window_ProjectLoader.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\PMEntityModel.Class1.datasource" />
+    <None Include="Properties\DataSources\PMEntityModel.Employee.datasource" />
+    <None Include="Properties\DataSources\PMEntityModel.Member.datasource" />
+    <None Include="Properties\DataSources\PMEntityModel.Project.datasource" />
+    <None Include="Properties\DataSources\PMEntityModel.TaskResource.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\60Banana.png" />
+    <Resource Include="Images\60Lemon.png" />
+    <Resource Include="Images\60Mint.png" />
+    <Resource Include="Images\60Orange.png" />
+    <Resource Include="Images\60Strawberry.png" />
+    <Resource Include="Images\60Vanilla.png" />
+    <Resource Include="Images\AG00040_.GIF" />
+    <Resource Include="Images\airplane.bmp" />
+    <Resource Include="Images\apple.jpg" />
+    <Resource Include="Images\bananas.jpg" />
+    <Resource Include="Images\beach.bmp" />
+    <Resource Include="Images\berries.jpg" />
+    <Resource Include="Images\blueberries.jpg" />
+    <Resource Include="Images\CAKE.JPG" />
+    <Resource Include="Images\cherries_larger.jpg" />
+    <Resource Include="Images\Follow.jpg" />
+    <Resource Include="Images\image1.jpg" />
+    <Resource Include="Images\image2.jpg" />
+    <Resource Include="Images\image3.jpg" />
+    <Resource Include="Images\PH02742G.GIF" />
+    <Resource Include="Images\PH02752G.GIF" />
+    <Resource Include="Images\rad_zoom_001.jpg" />
+    <Resource Include="Images\Sunset.jpg" />
+    <Resource Include="Images\UI_next_d.gif" />
+    <Resource Include="Images\UI_pause.gif" />
+    <Resource Include="Images\UI_play.gif" />
+    <Resource Include="Images\UI_previous_d.gif" />
+    <Resource Include="Images\UI_resume.gif" />
+    <Resource Include="Images\UI_stop.gif" />
+    <Resource Include="Images\worldmap.png" />
+    <Resource Include="Images\剪下UToolStripButton.Image.png" />
+    <Resource Include="Images\複製CToolStripButton.Image.png" />
+    <Resource Include="Images\貼上PToolStripButton.Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Cover-ERP-PM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 與 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\ProjectManagementModel\ProjectManagementModel.csproj">
+      <Project>{ceca37e9-9c59-47fd-bf65-cf1ef3fb812c}</Project>
+      <Name>ProjectManagementModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wpf_LoginSystem\Wpf_LoginSystem.csproj">
+      <Project>{348f6983-ce81-49bb-a9e4-7c61d7fd44cc}</Project>
+      <Name>Wpf_LoginSystem</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

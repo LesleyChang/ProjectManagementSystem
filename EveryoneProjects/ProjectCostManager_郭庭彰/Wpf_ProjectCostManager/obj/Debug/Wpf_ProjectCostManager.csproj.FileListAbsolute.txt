@@ -1,0 +1,187 @@
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csprojAssemblyReference.cache
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\Theme\Generic.baml
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\App.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.cache
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Theme\Generic.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Theme\Generic.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe.config
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.xml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csprojAssemblyReference.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Theme\Generic.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.lref
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.g.resources
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.Properties.Resources.resources
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.GenerateResource.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CoreCompileInputs.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CopyComplete
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Theme\Generic.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_ProjectCostManager.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\App.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Resource.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\MyUserControls\UC_Project.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ExpenseAdder.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_CategoryAdder.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectDetails.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\View\Window_ProjectLoader.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_ProjectCostManager\obj\Debug\Wpf_ProjectCostManager.csproj.CopyComplete

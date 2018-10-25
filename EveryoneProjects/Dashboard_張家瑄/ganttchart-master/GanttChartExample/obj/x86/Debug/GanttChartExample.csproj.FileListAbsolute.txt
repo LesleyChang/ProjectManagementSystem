@@ -1,0 +1,13 @@
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\bin\Debug\GanttChartExample.exe
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\bin\Debug\GanttChartExample.pdb
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\bin\Debug\GanttChart.dll
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\bin\Debug\GanttChart.pdb
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\GanttChartExample.csprojAssemblyReference.cache
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\Braincase.GanttChart.ExampleSimple.resources
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\Braincase.GanttChart.ExampleFull.resources
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\Braincase.GanttChart.Properties.Resources.resources
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\GanttChartExample.csproj.GenerateResource.cache
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\GanttChartExample.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\GanttChartExample.csproj.CopyComplete
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\GanttChartExample.exe
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChartExample\obj\x86\Debug\GanttChartExample.pdb

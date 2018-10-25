@@ -1,0 +1,32 @@
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\bin\Debug\GanttChart.dll
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\bin\Debug\GanttChart.pdb
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\obj\Debug\GanttChart.csprojAssemblyReference.cache
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\obj\Debug\Braincase.GanttChart.GDIExtention.resources
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.GenerateResource.cache
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\obj\Debug\GanttChart.dll
+C:\Users\TEST\Desktop\專題_PMsystem\ganttchart-master\ganttchart-master\GanttChart\obj\Debug\GanttChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\bin\Debug\GanttChart.dll
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\bin\Debug\GanttChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\obj\Debug\Braincase.GanttChart.GDIExtention.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.dll
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\obj\Debug\Braincase.GanttChart.GDIExtention.resources
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\PM_Projects\ganttchart-master\GanttChart\obj\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\obj\Debug\GanttChart.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\obj\Debug\Braincase.GanttChart.GDIExtention.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\obj\Debug\GanttChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\obj\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\ganttchart-master\GanttChart\obj\Debug\GanttChart.pdb

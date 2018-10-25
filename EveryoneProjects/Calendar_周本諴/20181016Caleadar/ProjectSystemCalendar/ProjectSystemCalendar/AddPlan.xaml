@@ -1,0 +1,37 @@
+﻿<Window x:Class="ProjectSystemCalendar.AddPlan"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjectSystemCalendar"
+        mc:Ignorable="d"
+        Title="我的行事曆"  Height="420.388" Width="427.774">
+    <Grid Margin="0,0,-0.4,0.4">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="44*"/>
+            <RowDefinition Height="66*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="143*"/>
+        </Grid.RowDefinitions>
+        <Button Content="儲存" FontSize="18" Width="83" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <Button Content="刪除" FontSize="18" Width="83" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Margin="88,0,0,0"/>
+
+
+        <Menu HorizontalAlignment="Right" Margin="0,0,0.6,0" Width="252">
+            <MenuItem BorderBrush="{x:Null}" Background="{x:Null}" FontSize="20" Header="分類 ∨" Height="44" HorizontalAlignment="Left" Width="252" >
+                <MenuItem Header="紅色分類" Foreground="Red" FontSize="15"/>
+                <MenuItem Header="橘色分類" Foreground="Orange" FontSize="15"/>
+                <MenuItem Header="黃色分類" Foreground="#FFEEF007" FontSize="15"/>
+                <MenuItem Header="綠色分類" Foreground="Green"  FontSize="15"/>
+                <MenuItem Header="藍色分類" Foreground="#FF009DCD"  FontSize="15"/>
+                <MenuItem Header="紫色分類" Foreground="#FF9900FF"  FontSize="15"/>
+            </MenuItem>
+        </Menu>
+        <TextBox Grid.Row="4" Margin="20" TextWrapping="Wrap" Text="新增描述"/>
+        <TextBox FontSize="40" Margin="10" Grid.Row="1" TextWrapping="Wrap" Text="新增標題" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        <DatePicker HorizontalAlignment="Left" Margin="22,16.4,0,0" Grid.Row="2" VerticalAlignment="Top" Width="216"/>
+        <DatePicker HorizontalAlignment="Left" Margin="22,19.2,0,0" Grid.Row="3" VerticalAlignment="Top" Width="216"/>
+
+    </Grid>
+</Window>

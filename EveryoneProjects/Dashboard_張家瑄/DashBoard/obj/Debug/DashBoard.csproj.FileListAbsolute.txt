@@ -1,0 +1,296 @@
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\UserControl_ElipseBtn.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\UserControl_ElipseBtn.baml
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\UserControl_DateBlock.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\UserControl_DateBlock.baml
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\UserControl_ToolBox.g.cs
+C:\Users\III\Documents\GitHub\MyCriticalPathChart\DashBoard\obj\Debug\UserControl_ToolBox.baml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_DateBlock.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_ToolBox.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_DateBlock.baml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_ToolBox.baml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\MainWindow.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\UserControl_DateBlock.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\UserControl_ToolBox.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\App.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\MainWindow.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\UserControl_DateBlock.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\UserControl_ToolBox.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\UserControl_BurnDownChart.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_CanvasCPM\DashBoard\obj\Debug\UserControl_BurnDownChart.baml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_BurnDownChart.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_BurnDownChart.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\CriticalPathChart.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\CriticalPathChart.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\CriticalPathChart.exe.config
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\MainWindow.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_BurnDownChart.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_DateBlock.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_ToolBox.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\App.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\MainWindow.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_BurnDownChart.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_DateBlock.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_ToolBox.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_GanttChart.g.cs
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\obj\Debug\UserControl_GanttChart.baml
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\GanttChart.dll
+C:\Users\TEST\Documents\GitHub\PM_Projects_181015\PM_Projects\DashBoard\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_GanttChart.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_GanttChart.baml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_ControlSetting.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\UserControl_ControlSetting.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_BurnDownChart.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_ControlSetting.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_DateBlock.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_GanttChart.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_ToolBox.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\MainWindow.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_BurnDownChart.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_ControlSetting.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_DateBlock.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_GanttChart.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\UserControl_ToolBox.baml
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\181016以前\PM_Projects _181016(備份)\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\Dashboard_Overview.g.cs
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\obj\Debug\Dashboard_Overview.baml
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\PM_Projects\DashBoard\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_BurnDownChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_ControlSetting.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_DateBlock.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_GanttChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_ToolBox.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_BurnDownChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_ControlSetting.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_DateBlock.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_GanttChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl_ToolBox.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_BurnDownChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ControlSetting.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_DateBlock.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_GanttChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ToolBox.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_BurnDownChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ControlSetting.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_DateBlock.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_GanttChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ToolBox.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_BurnDownChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ControlSetting.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_DateBlock.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_GanttChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ToolBox.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_BurnDownChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ControlSetting.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_DateBlock.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_GanttChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ToolBox.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\DashBoard.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\CriticalPathChart.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\GanttChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_BurnDownChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ControlSetting.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_DateBlock.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_GanttChart.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ToolBox.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\Dashboard_Overview.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_BurnDownChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ControlSetting.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_DateBlock.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_GanttChart.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\UserControl\UserControl_ToolBox.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\Dashboard_張家瑄\DashBoard\obj\Debug\DashBoard.pdb

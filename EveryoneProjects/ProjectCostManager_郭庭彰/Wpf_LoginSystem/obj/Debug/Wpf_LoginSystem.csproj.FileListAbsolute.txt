@@ -1,0 +1,119 @@
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csprojAssemblyReference.cache
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_LoginSystem\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_LoginSystem\obj\Debug\View\Window_Register.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_LoginSystem\obj\Debug\App.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.cache
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.xml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csprojAssemblyReference.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\App.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.lref
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.g.resources
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.Properties.Resources.resources
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.GenerateResource.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CopyComplete
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\Wpf_LoginSystem.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\ProjectManagementModel.dll.config
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\App.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\MainWindow.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_Register.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\View\Window_ResetPassword.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.Properties.Resources.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.GenerateResource.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.csproj.CopyComplete
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.exe
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\Wpf_LoginSystem\obj\Debug\Wpf_LoginSystem.pdb

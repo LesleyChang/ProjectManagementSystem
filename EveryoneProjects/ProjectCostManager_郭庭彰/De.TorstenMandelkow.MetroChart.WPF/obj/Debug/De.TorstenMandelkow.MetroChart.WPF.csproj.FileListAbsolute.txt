@@ -1,0 +1,65 @@
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.cache
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.lref
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.g.resources
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Downloads\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csprojAssemblyReference.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.lref
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.g.resources
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\modernuicharts\sourceCode\ModernUIChart\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csprojAssemblyReference.cache
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.cache
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.lref
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.g.resources
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Desktop\專案集中區\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csprojAssemblyReference.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.lref
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.g.resources
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Downloads\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem - 複製\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csprojAssemblyReference.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart_MarkupCompile.lref
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\Themes\Generic.baml
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.g.resources
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.WPF.csproj.CoreCompileInputs.cache
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.dll
+C:\Users\III\Documents\GitHub\ProjectManagementSystem\EveryoneProjects\ProjectCostManager_郭庭彰\De.TorstenMandelkow.MetroChart.WPF\obj\Debug\De.TorstenMandelkow.MetroChart.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ccda4e88181e4ed8ad688bf34245f299" Name="Diagram1" ZoomLevel="60">
+        <EntityTypeShape EntityType="ProjectManagementModel.Department" Width="1.5" PointX="0.75" PointY="2.25" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Employee" Width="1.5" PointX="3" PointY="1.75" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Project" Width="1.5" PointX="5.25" PointY="1.125" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Status" Width="1.5" PointX="3" PointY="7.5" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Task" Width="1.5" PointX="9.75" PointY="1.5" />
+        <EntityTypeShape EntityType="ProjectManagementModel.Work" Width="1.5" PointX="7.5" PointY="1.5" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Department_Department" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Employee_Department" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Department" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Department1" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Employee_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Employee1" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Employee2" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Tasks_Employee" />
+        <AssociationConnector Association="ProjectManagementModel.FK_Project_Status" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_Project" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ActivityList_Status" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_Status" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ActivityList_ProjectWork" />
+        <AssociationConnector Association="ProjectManagementModel.FK_ProjectWork_ProjectWork" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

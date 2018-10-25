@@ -1,0 +1,4 @@
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart\obj\Debug\De.TorstenMandelkow.MetroChart.csprojAssemblyReference.cache
+C:\Users\III\Google 雲端硬碟\CShasrpLearning\統一證券專題－專案進度管理\MyWPF\Wpf_ProjectCostManager\De.TorstenMandelkow.MetroChart\obj\Debug\De.TorstenMandelkow.MetroChart.csproj.CoreCompileInputs.cache
+C:\Users\III\Downloads\ProjectManagementSystem\De.TorstenMandelkow.MetroChart\obj\Debug\De.TorstenMandelkow.MetroChart.csprojAssemblyReference.cache
+C:\Users\III\Downloads\ProjectManagementSystem\De.TorstenMandelkow.MetroChart\obj\Debug\De.TorstenMandelkow.MetroChart.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AssignTask._1.AlterWPF"
+        xmlns:AssignTask="clr-namespace:AssignTask" x:Class="AssignTask._1.AlterWPF.WorkLoadDetail"
+        mc:Ignorable="d"
+        Title="WorkLoadDetail" Height="505.027" Width="960.67">
+    <!--<Viewbox Stretch="Fill">-->
+        <Grid Height="474" Margin="10,0,2,0">
+            <WrapPanel x:Name="detailWrap1" Margin="10" Background="LightGray">
+                <DataGrid x:Name="detailGrid1" Height="171" Width="601" Margin="10,10,10,10" IsReadOnly="True" GridLinesVisibility="None">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Binding="{Binding ProjectName}" Header="案子名稱"/>
+                        <DataGridTextColumn Binding="{Binding Task}" Header="工作"/>
+                        <DataGridTextColumn Binding="{Binding EmployeeName}" Header="被分配工作員工"/>
+                        <DataGridTextColumn Binding="{Binding StartDate}" Header="實際開始使間"/>
+                        <DataGridTextColumn Binding="{Binding EndDate}" Header="實際結束使間"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            <DataGrid Height="171" Width="156" x:Name="groupdatagrid"  IsReadOnly="True" GridLinesVisibility="None" Margin="20">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding EmployeeName}" Header="員工名稱"/>
+                    <DataGridTextColumn Binding="{Binding EmPCount}" Header="承接工作數"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </WrapPanel>
+        </Grid>
+    <!--</Viewbox>-->
+</Window>

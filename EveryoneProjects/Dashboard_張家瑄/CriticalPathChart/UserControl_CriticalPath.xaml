@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="CriticalPathChart.UserControl_CriticalPath"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CriticalPathChart"        
+        mc:Ignorable="d"
+        Height="450" Width="800" Name="CPM_Window" >
+    <UserControl.Resources>
+
+        <DataTemplate x:Key="WorkItem">
+            <Border HorizontalAlignment="Center" BorderThickness="1" VerticalAlignment="Top" BorderBrush="DarkBlue" >
+                <StackPanel Orientation="Vertical" >
+                    <TextBlock Text="{Binding Name}" HorizontalAlignment="Center" Margin="2"/>
+                    <TextBlock Text="Duration" HorizontalAlignment="Center" Margin="2"/>
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+
+        <DataTemplate x:Key="ColumnTemplate">
+            <ItemsControl ItemsSource="{Binding}">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <StackPanel Orientation="Vertical"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <ContentControl ContentTemplate="{StaticResource WorkItem}" Content="{Binding Items}"/>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </DataTemplate>
+        <DataTemplate x:Key="TaskItemTemplate" DataType="ContentControl" >
+            <Border BorderBrush="#FFA8A7A7" BorderThickness="1"  >
+                <StackPanel>
+                    <TextBlock Name="NameBlock" Margin="2" Text="Name" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    <TextBlock Name="DurationBlock" Margin="2" Text="Duration" Foreground="Black" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                </StackPanel>
+            </Border>
+        </DataTemplate>
+    </UserControl.Resources>
+
+    <Viewbox Stretch="Fill">
+        <Canvas Name="MainCanvas" Height="400" Width="800">
+            <Border Name="StartBlock" Width="auto" BorderThickness="1" Height="auto" HorizontalAlignment="Right" VerticalAlignment="Center" BorderBrush="Black" Canvas.Left="19" Canvas.Top="182">
+                <TextBlock Text="Start" Margin="10" />
+            </Border>
+            <Border Name="EndBlock" Width="auto" BorderThickness="1" Height="auto" HorizontalAlignment="Left" VerticalAlignment="Center" BorderBrush="Black" Canvas.Left="734" Canvas.Top="182">
+                <TextBlock Text="End" Margin="10" />
+            </Border>
+        </Canvas>
+    </Viewbox>
+</UserControl>

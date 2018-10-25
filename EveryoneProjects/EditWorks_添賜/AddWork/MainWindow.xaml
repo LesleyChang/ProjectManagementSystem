@@ -1,0 +1,320 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddWork"
+        xmlns:Tree="clr-namespace:Aga.Controls.Tree;assembly=Aga.Controls" x:Class="AddWork.AddWorkPage"    
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="36*"/>
+            <RowDefinition Height="383*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <Button Height="30" Width="150" Margin="0" BorderBrush="{x:Null}" Background="{x:Null}" Click="AddProjectButton_Click">
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background">
+                            <Setter.Value>
+                                <ImageBrush ImageSource="Image/AddProject.png" Stretch="None"/>
+                            </Setter.Value>
+                        </Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background">
+                                    <Setter.Value>
+                                        <ImageBrush ImageSource="Image/AddProject.png" Stretch="None"/>
+                                    </Setter.Value>
+                                </Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+                <Button.Content >
+                    <Border Height="25" Width="130" BorderThickness="2"  CornerRadius="5" BorderBrush="Black"  >
+                        <Image Margin="2" Source="Image/AddProject.png" ></Image>
+                    </Border>
+                </Button.Content>
+            </Button>
+            <MenuItem Header=""  Height="30" Width="25" Margin="5,0,5,0" Click="SaveMenuItem_Click">
+                <MenuItem.Background>
+                    <ImageBrush ImageSource="Image/Save.png" Stretch="Uniform"/>
+                </MenuItem.Background>
+            </MenuItem>
+            <MenuItem Header=""  Height="30" Width="25" Margin="5,0,5,0" Click="DeleteMenuItem_Click">
+                <MenuItem.Background>
+                    <ImageBrush ImageSource="Image/Delete.png" Stretch="Uniform"/>
+                </MenuItem.Background>
+            </MenuItem>
+        </Menu>
+        <Grid Grid.Row="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="193*"/>
+                <ColumnDefinition Width="599*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid   Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="64*"/>
+                    <RowDefinition Height="65*"/>
+                </Grid.RowDefinitions>
+
+
+                <WrapPanel Height="200" VerticalAlignment="Top" Orientation="Vertical" Grid.Row="0" Margin="0,0,0,10">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="專案代號:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <TextBlock x:Name="projectIDTextBox" Grid.Column="1" HorizontalAlignment="Right" Height="23" Grid.Row="0" Text="{Binding ProjectID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+
+                    </Grid>
+
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="專案名稱:" Grid.Column="0" HorizontalAlignment="Right" Margin="3,3,0,3" VerticalAlignment="Center"/>
+                        <TextBox x:Name="projectNameTextBox" Grid.Column="1" HorizontalAlignment="Right" Height="23" Margin="3,4,0,4" Text="{Binding ProjectName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="需求部門:" Grid.Column="0" HorizontalAlignment="Right" Margin="3"  VerticalAlignment="Center"/>
+                        <ComboBox x:Name="requiredDeptIDComboBox" SelectedIndex="1" Grid.Column="1" HorizontalAlignment="Right" Height="23" Margin="3,4,0,4" Text="{Binding ProjectName, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Content="需求部門PM:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <ComboBox x:Name="requiredDeptPMIDComboBox" SelectedIndex="0" Grid.Column="1" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding RequiredDeptPMID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Label Content="預計開始時間:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <DatePicker x:Name="estStartDateTextBox" SelectedDate="2001-01-01" Grid.Column="1" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding EstStartDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="預計結束時間:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <DatePicker x:Name="estEndDateTextBox" SelectedDate="2001-01-01" Grid.Column="1" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding EstEndDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="實際開始時間:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <DatePicker x:Name="startDateTextBox" Grid.Column="1" SelectedDate="2001-01-01"  HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding StartDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="實際結束時間:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <DatePicker x:Name="endDateTextBox" Grid.Column="1" SelectedDate="2001-01-01" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding EndDate, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="負責單位:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <ComboBox x:Name="inChargeDeptIDComboBox" SelectedIndex="0" Grid.Column="1" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding InChargeDeptID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="負責單位PM:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <ComboBox x:Name="inChargeDeptPMIDComboBox" SelectedIndex="0" Grid.Column="1" HorizontalAlignment="Right" Height="23" Grid.Row="0" Text="{Binding InChargeDeptPMID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="專案狀態:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <ComboBox x:Name="projectStatusIDComboBox" SelectedIndex="0" Grid.Column="1" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding ProjectStatusID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="專案類別:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <ComboBox x:Name="projectCategoryIDComboBox" SelectedIndex="0" Grid.Column="1" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding ProjectCategoryID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="專案督導:" Grid.Column="0" HorizontalAlignment="Right" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <ComboBox  x:Name="projectSupervisorIDComboBox" SelectedIndex="0" Grid.Column="1" HorizontalAlignment="Right" Height="23"  Grid.Row="0" Text="{Binding ProjectSupervisorID, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+                    </Grid>
+                    <Grid >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Label Content="總經理關注:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                        <CheckBox x:Name="isGeneralManagerConcernedCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Center" IsChecked="{Binding IsGeneralManagerConcerned, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+                    </Grid>
+                </WrapPanel>
+                <GridSplitter Grid.Column="0" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Height="5"/>
+                <StackPanel Orientation="Vertical" Grid.Row="1">
+                    <StackPanel Orientation="Horizontal" Height="32">
+                        <MenuItem Header=""  Height="20" Width="20" Margin="5,0,5,0" Click="AddWorksMenuItem_Click" >
+                            <MenuItem.Background>
+                                <ImageBrush ImageSource="Image/AddWorks.png" Stretch="Uniform"/>
+                            </MenuItem.Background>
+                        </MenuItem>
+                        <MenuItem Header=""  Height="20" Width="20" Margin="5,0,5,0" Click="RemoveWorkMenuItem_Click">
+                            <MenuItem.Background>
+                                <ImageBrush ImageSource="Image/RemoveWorks.png" Stretch="Uniform"/>
+                            </MenuItem.Background>
+                        </MenuItem>
+                        <TextBlock Margin="3" Text="工作名稱:" VerticalAlignment="Center"/>
+                        <TextBox Margin="3" x:Name="InputWorkName" Width="80" Text="請輸入"/>
+                        <TextBlock Margin="3" Text="負責人:" VerticalAlignment="Center"/>
+                        <ComboBox Margin="3" x:Name="InputEmployeeID" Width="60" SelectedIndex="0"/>
+                        <TextBlock Margin="3" Text="工作狀態:" VerticalAlignment="Center"/>
+                        <ComboBox Margin="3" x:Name="InputWorkStatusID" Width="60" SelectedIndex="0"/>
+                        <TextBlock Margin="3" Text="預計開始時間:" VerticalAlignment="Center"/>
+                        <DatePicker Margin="3" x:Name="InputWorkEstStartDate" />
+                        <TextBlock Margin="3" Text="預計結束時間:" VerticalAlignment="Center"/>
+                        <DatePicker Margin="3" x:Name="InputWorkEstEndDate" />
+                        <TextBlock Margin="3" Text="實際開始時間:" VerticalAlignment="Center"/>
+                        <DatePicker Margin="3" x:Name="InputWorkStartDate" />
+                        <TextBlock Margin="3" Text="實際結束時間:" VerticalAlignment="Center"/>
+                        <DatePicker Margin="3" x:Name="InputWorkEndDate" />
+
+                    </StackPanel>
+                    <Tree:TreeList x:Name="treelist1" BorderBrush="{x:Null}">
+                        <Tree:TreeList.View>
+                            <GridView>
+                                <GridViewColumn Width="400" Header="工作名稱">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <Tree:RowExpander/>
+                                                <TextBlock Text="{Binding Step}"   Background="{x:Null}"/>
+                                                <TextBox Text="{Binding Name}"  BorderBrush="{x:Null}" Background="{x:Null}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="負責人" Width="50">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding EmployeeID}" Background="{x:Null}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="工作狀態" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding WorkStatusID}"  Background="{x:Null}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="預計開始時間" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding WorkEstStartDate}"  Background="{x:Null}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="預計結束時間" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding WorkEstEndDate}"  Background="{x:Null}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="實際開始時間" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding WorkStartDate}"  Background="{x:Null}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="實際結束時間" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="{Binding WorkEndDate}"  Background="{x:Null}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+
+                            </GridView>
+                        </Tree:TreeList.View>
+                    </Tree:TreeList>
+                </StackPanel>
+            </Grid>
+            <TreeView x:Name="DeptTreeView"/>
+            <GridSplitter Grid.Column="0" HorizontalAlignment="Right"   VerticalAlignment="Stretch" Width="5"/>
+        </Grid>
+    </Grid>
+</Window>

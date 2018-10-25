@@ -1,0 +1,81 @@
+﻿<Window x:Class="DashBoard.OverviewDashboardPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DashBoard"        
+        mc:Ignorable="d"        
+        Title="Dashboard" Height="800" Width="1200" ContentRendered="Window_ContentRendered" Closing="Window_Closing" >
+    <Window.Resources>
+        <DataTemplate x:Key="ContentTemplate_Check" DataType="Content">
+            <Grid HorizontalAlignment="Center" Height="12"  VerticalAlignment="Top" Margin="5" Width="20" RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="135"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Border BorderBrush="AliceBlue" BorderThickness="0,5,5,0"/>
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="ContentTemplate_Pencil">
+            <Image Source="Images/icons_pencil.png" Stretch="Fill" Width="20" Height="20" ></Image>
+        </DataTemplate>
+        <DataTemplate x:Key="ContentTemplate_Plus">
+            <Image Source="Images/plus.png" Stretch="Fill" Width="20" Height="20" ></Image>
+        </DataTemplate>
+
+    </Window.Resources>
+
+    <Grid Name="WholePageGrid">       
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto" >
+            <Canvas x:Name="MainCanvas" Margin="0,0,0,0" Background="#FFE5F3FF" Width="auto" Height="auto" 
+                            AllowDrop="True" Drop="MainCanvas_Drop">
+                <!--<Button Name="testBtn" Content="Button" Canvas.Left="884" Canvas.Top="101" Width="97" Height="56" />-->
+            </Canvas>
+        </ScrollViewer>
+
+        <Button x:Name="AddControl_Btn"  HorizontalAlignment="Right" Height="50" Margin="0,0,9.6,10.4" VerticalAlignment="Bottom" Click="AddControl_Btn_Click"
+                ContentTemplate="{StaticResource ResourceKey=ContentTemplate_Plus}" Foreground="AliceBlue" FontSize="20" Width="50" Background="#FFCA6969" Grid.Row="1"   >
+            <Button.Effect>
+                <DropShadowEffect Color="#FFCACACA"/>
+            </Button.Effect>
+            <Button.Template >
+                <ControlTemplate TargetType="{x:Type Button}" >
+                    <Grid >
+                        <Path Stretch="Uniform" UseLayoutRounding="False" Fill="#FF2C9A49">
+                            <Path.Data>
+                                <EllipseGeometry RadiusX="1" RadiusY="1"/>
+                            </Path.Data>
+                        </Path>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+        <Button x:Name="Modified_Btn"  HorizontalAlignment="Right" Height="50" Margin="0,0,9.6,10.4" VerticalAlignment="Bottom"
+                ContentTemplate="{StaticResource ContentTemplate_Pencil}" Width="50" Background="#FFCA6969"  FontSize="12"
+                ToolTip="編輯儀錶板" Click="Modified_Btn_Click" Grid.Row="1" >
+            <Button.Effect>
+                <DropShadowEffect Color="#FFCACACA"/>
+            </Button.Effect>
+            <Button.Template >
+                <ControlTemplate TargetType="{x:Type Button}" >
+                    <Grid >
+                        <Path Stretch="Uniform" UseLayoutRounding="False" Fill="#FF1FB3FF">
+                            <Path.Data>
+                                <EllipseGeometry RadiusX="1" RadiusY="1"/>
+                            </Path.Data>
+                        </Path>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+    </Grid>
+</Window>
